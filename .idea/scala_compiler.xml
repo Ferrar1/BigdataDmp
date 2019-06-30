@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="Maven 1" modules="dmp_24">
+      <parameters>
+        <parameter value="-make:transitive" />
+        <parameter value="-dependencyfile" />
+        <parameter value="G:\hadoop\培训机构\牛牛\09-实训实战-9天\小牛学堂大数据24期实训实战-day03\dmp_24\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+  </component>
+</project>
